@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.local
+coverage/
+
+# Web app
+web/node_modules/
+web/.svelte-kit/
+web/.wrangler/
+web/build/
